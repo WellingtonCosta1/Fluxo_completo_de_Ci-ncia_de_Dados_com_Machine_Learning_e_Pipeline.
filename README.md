@@ -1,8 +1,8 @@
-# Fluxo_completo_de_Ci-ncia_de_Dados_com_Machine_Learning_e_Pipeline.
-📌 Descrição
+# Fluxo completo de Ciência de Dados com Machine Learning e Pipeline.
+## 📌 Descrição
 Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas etapas de exploração, pré-processamento, modelagem e avaliação de desempenho. O objetivo principal é aplicar técnicas de Machine Learning para previsão e interpretação dos resultados, utilizando boas práticas com Pipeline e transformações de variáveis.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 - Realizar análise exploratória de um dataset real.
 
