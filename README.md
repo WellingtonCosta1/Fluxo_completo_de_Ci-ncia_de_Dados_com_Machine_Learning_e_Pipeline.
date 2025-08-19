@@ -12,7 +12,7 @@ Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas 
 
 - Avaliar os resultados e interpretar os coeficientes do modelo.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python 3
 
@@ -23,7 +23,7 @@ Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas 
 - Matplotlib & Seaborn → visualização de dados
 
 - Scikit-learn → pré-processamento e modelagem (Pipeline, regressão, métricas)
-🔎 Etapas do Projeto
+## 🔎 Etapas do Projeto
 
 1. Carregamento dos dados
 
@@ -61,7 +61,7 @@ Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas 
 
 - Interpretação dos coeficientes para identificar variáveis mais relevantes
 
-📈 Resultados
+## 📈 Resultados
 
 - O modelo conseguiu gerar previsões a partir do dataset.
 
@@ -69,7 +69,7 @@ Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas 
 
 - As variáveis com maior impacto foram destacadas após a ordenação por magnitude.
 
-📌 Autor
+## 📌 Autor
 
 👤 Wellington Costa
 📧 tonzimcosta16@gmail.com
