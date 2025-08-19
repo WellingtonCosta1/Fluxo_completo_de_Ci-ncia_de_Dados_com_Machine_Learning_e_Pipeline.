@@ -71,7 +71,7 @@ Este projeto consiste em um fluxo completo de Ciência de Dados, passando pelas 
 
 ## 📌 Autor
 
-👤 Wellington Costa
-📧 tonzimcosta16@gmail.com
-🔗 LinkedIn
- | GitHub
+- 👤 Wellington Costa
+- 📧 tonzimcosta16@gmail.com
+- 🔗 https://www.linkedin.com/feed/
+ 
